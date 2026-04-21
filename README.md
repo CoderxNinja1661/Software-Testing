@@ -1,0 +1,1 @@
+“This repository contains the testing report for the BookWalah project, covering test cases, bug analysis, system validation, and performance evaluation. It ensures the reliability, usability, and functionality of the application through structured testing methodologies.”
